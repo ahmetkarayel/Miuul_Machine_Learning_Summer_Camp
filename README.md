@@ -5,4 +5,4 @@
 </a>
 
 
-Miuul tarafından düzenlenen Makine Öğrenmesi Yaz Kampı kapsamında tuttuğum ders notlarını ve verilen ödevleri bu repo içerisinde bulabilirsiniz.
+Miuul tarafından düzenlenen "Makine Öğrenmesi Yaz Kampı" kapsamında tuttuğum ders notlarını, verilen ödevleri ve yapılan projeleri bu repo içerisinde bulabilirsiniz.
