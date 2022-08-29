@@ -1,7 +1,7 @@
 
 
 <a href="https://miuul.com/?gclid=CjwKCAjwx7GYBhB7EiwA0d8oe8TRRAlu55MTvYmlvtzLStKnrysfyr0f0HTtDYKfB4tS8tkPNFTRShoChxkQAvD_BwE">
-  <center><img src="https://www.miuul.com/image/theme/logo-white.png"></center>
+  <img src="https://www.miuul.com/image/theme/logo-white.png">
 </a>
 
 
